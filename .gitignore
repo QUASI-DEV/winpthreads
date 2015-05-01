@@ -1,0 +1,14 @@
+Makefile
+.deps
+.libs
+.dirstamp
+*.o
+*.lo
+config.h
+config.log
+config.status
+stamp-h1
+libtool
+fakelib/
+*.a
+*.la
